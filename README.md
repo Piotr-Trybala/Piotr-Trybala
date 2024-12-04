@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>Excel showo-ff</b>
+- <b>Excel show-off</b>
   - Coffee project
 - <b>Building basic database in SQL</b>
   - I'll come back here</b></i>
